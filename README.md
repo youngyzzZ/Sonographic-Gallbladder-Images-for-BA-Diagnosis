@@ -1,4 +1,4 @@
-# Sonographic_Gallbladder_Diagnose_System
+# Sonographic Gallbladder Diagnose System
 
 ![https://opensource.org/licenses/MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![https://www.python.org/](https://img.shields.io/badge/language-python-yellow.svg)
