@@ -44,6 +44,9 @@ matplotlib
 ```
 
 # Demo
+## start to run
+The defult hyperparameter was set on `./src/tool.py`, and its can be also reset on `/script/run.sh`, You can enter `python run.sh` in the terminal to run the code.
+
 # Result of CAM
 # Result
 
