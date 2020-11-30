@@ -19,6 +19,3 @@ python "${SRC_DIR}"/main.py train\
   --test_csv='label_contain_empty/label_contain_empty_test_5_all.csv' \
   --personal_eval \
   --optimizer='sgd' \
-
-
-# 不同数据集要去调整weight
