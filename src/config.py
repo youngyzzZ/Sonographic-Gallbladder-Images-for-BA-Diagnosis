@@ -22,7 +22,7 @@ globals().update(vars(tool.gen_parser()))
 def init_path_config(main_file):
     # global_variables
     gv = globals()
-    project_dir = abspath(join(dirname(main_file), '..'))  # 定位到src的上一层
+    project_dir = abspath(join(dirname(main_file), '..')) 
     gv['project_dir'] = project_dir
     gv['data_dir'] = data_dir = join(project_dir, 'data')
     gv['log_dir'] = join(data_dir, 'log')
