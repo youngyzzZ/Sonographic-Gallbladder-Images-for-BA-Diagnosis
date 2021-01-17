@@ -4,6 +4,9 @@
 ![https://www.python.org/](https://img.shields.io/badge/language-python-yellow.svg)
 ![https://pytorch.org/get-started/locally/](https://img.shields.io/badge/backbone-PyTorch-important.svg)
 ![](https://img.shields.io/badge/version-1.0.3-blue.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4445474.svg)](https://doi.org/10.5281/zenodo.4445474)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4445734.svg)](https://doi.org/10.5281/zenodo.4445734)
+
 
 # Content
 - [Overview](#overview)
