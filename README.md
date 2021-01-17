@@ -3,7 +3,7 @@
 ![https://opensource.org/licenses/MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![https://www.python.org/](https://img.shields.io/badge/language-python-yellow.svg)
 ![https://pytorch.org/get-started/locally/](https://img.shields.io/badge/backbone-PyTorch-important.svg)
-![](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![](https://img.shields.io/badge/version-1.0.3-blue.svg)
 
 # Content
 - [Overview](#overview)
