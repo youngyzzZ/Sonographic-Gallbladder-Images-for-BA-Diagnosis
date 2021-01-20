@@ -38,8 +38,8 @@ def init_path_config(main_file):
     gv['CIFAR10_dir'] = '/home/cccc/Desktop/share/deeplearning_project/pnasnet/data/DataSets/cifar10'
 
     # local
-    gv['Gallbladder_train_dir'] = '../../dataset/final_train_cl/siggraph17'
-    gv['Gallbladder_test_dir'] = '../../dataset/final_train_cl/siggraph17'
+    gv['Gallbladder_train_dir'] = './data/training_data'
+    gv['Gallbladder_test_dir'] = './data/test_data'
 
     # lab15
     # gv['Gallbladder_train_dir'] = '/data1/yangyang/project/pnasnet/data/DataSets/final_train'
