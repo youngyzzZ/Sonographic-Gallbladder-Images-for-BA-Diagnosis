@@ -15,7 +15,7 @@ python "${SRC_DIR}"/main.py train\
   --epoch=210 \
   --batch_size=16 \
   --img_size=224 \
-  --train_csv='label_contain_empty/label_contain_empty_test_5_all.csv' \
-  --test_csv='label_contain_empty/label_contain_empty_test_5_all.csv' \
+  --train_csv='label.csv' \
+  --test_csv='label.csv' \
   --personal_eval \
   --optimizer='sgd' \
