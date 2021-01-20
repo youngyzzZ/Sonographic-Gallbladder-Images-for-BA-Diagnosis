@@ -1,1 +1,3 @@
 Compressed images from the training dataset and external validation dataset are available in this repository. All other datasets generated and analyzed in the current study (including original image data) are available from the corresponding author (L.Y.Z.) on reasonable request. 
+
+We provide "label.csv" file as the label of dataset. Notice that "0" indicates BA and "1" indicates Non-BA.
